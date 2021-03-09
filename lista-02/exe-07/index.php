@@ -79,7 +79,6 @@
             echo "Os divisores somados de {$value} é: ", somaDivisores($value), "!<br>";
         }
     }
-
     ?>
 </div>
 </html>
