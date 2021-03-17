@@ -41,7 +41,7 @@
         <?php
         if (!empty($_POST)) {
             $arrayTimes = $_POST['times'];
-            $melhorTempo = -1;
+            $melhorTempo = 0;
             $somaTempo = NULL;
             $melhorVolta = NULL;
 
