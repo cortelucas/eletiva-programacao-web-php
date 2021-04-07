@@ -14,7 +14,7 @@ btn.addEventListener('click', (e)=> {
             Número digitado foi ${valor}, e o mesmo é maior do que 10!
         </div>
         `
-    } else if (valor < 0) {
+    } else if (valor < 10) {
         campo.innerHTML = `
         <div class="alert alert-light" role="alert">
             Número digitado foi $valor, e o mesmo é menor do que 10!
@@ -27,6 +27,4 @@ btn.addEventListener('click', (e)=> {
         </div>
         `
     }
-
-
 });
