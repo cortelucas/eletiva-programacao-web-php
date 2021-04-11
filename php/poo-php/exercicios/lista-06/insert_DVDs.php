@@ -63,7 +63,7 @@
         if ($_POST) {
             require "ClasseDVDs.php";
 
-            $obj = new \EmpresaXYZ\ClasseCDs(
+            $obj = new \EmpresaXYZ\ClasseDVDs(
                 $_POST['id'], $_POST['name'], $_POST['dateOfAcquisition'],
                 $_POST['listOfAuthors'], $_POST['type'], $_POST['generalDescription']
             );
