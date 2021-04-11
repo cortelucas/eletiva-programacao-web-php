@@ -9,12 +9,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link rel="stylesheet" href="../../../css/style.css">
-    <title>Inserir DVD's</title>
+    <title>Inserir Livros</title>
 
 </head>
 <body>
 <header class="card-header bg-white text-center">
-    <h1>Inserir dados do DVD</h1>
+    <h1>Inserir dados do Livro</h1>
 </header>
 <section class="container card shadow-lg mt-5 p-5">
 
